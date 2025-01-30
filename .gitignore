@@ -1,0 +1,5 @@
+config/aws_cliente.cfg
+config/aws_lake.cfg
+dags/__pycache__
+plugins/modules/__pycache__
+logs/*
